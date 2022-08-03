@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197911791723",
+    "project_id": "firlogin-28c46",
+    "storage_bucket": "firlogin-28c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197911791723:android:b46375f9c906e342cec92e",
+        "android_client_info": {
+          "package_name": "com.example.firlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197911791723-en8rd6kgmaa6n9aqq3hfoan4908mimo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXI-A7fk8NAud1LlS3uTQek7gSgd4hP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197911791723-en8rd6kgmaa6n9aqq3hfoan4908mimo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
